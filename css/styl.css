@@ -1,0 +1,11 @@
+.container{
+    margin-bottom: 100px;
+}
+
+.panda-banner{
+    background-color: #FEEAE9;
+}
+.panda-carousel{
+    border: none;
+    border-radius: 10px;
+}
